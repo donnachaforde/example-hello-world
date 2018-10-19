@@ -1,5 +1,5 @@
 # Readme: example-mvn-hello-world
-Classic Java "Hello World!" built using Maven and a manifest file.
+Classic Java "Hello World!" (a la **The Java Programming Language** *by James Gosling*) built using Maven and a manifest file.
 
 
 ## Building the project
