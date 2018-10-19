@@ -8,7 +8,7 @@
     <artifactId>HelloWorld</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <!--Tell Maven what manifest file to use-->
     <build>
         <plugins>
             <plugin>
