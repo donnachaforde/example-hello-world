@@ -15,14 +15,14 @@ Clone the project and use Maven to build the java application.
 
 
 ## Notes
-The project uses a manifest file to specify the Main class in the compliled jar.
+The project uses a Java *manifest file* to specify the Main class in the compliled jar.
 
-Check out the `manifest.txt` file to see how it specifies the main calss.
+Check out the `manifest.txt` file in the resources directory to see how it specifies the Main class.
  
-Note how its referenced int `pom.xml` file.
+Note how its referenced in the `pom.xml` file.
 
     <archive>
-        <manifestFile>manifest.txt</manifestFile>
+        <manifestFile>src/main/resources/manifest.txt</manifestFile>
     </archive>
 
   
