@@ -17,7 +17,7 @@
                 <configuration>
                     <archive>
                         <!--<manifestFile>src/main/resources/META-INF/MANIFEST.MF</manifestFile>-->
-                        <manifestFile>manifest.txt</manifestFile>
+                        <manifestFile>src/main/resources/manifest.txt</manifestFile>
                     </archive>
                 </configuration>
             </plugin>
