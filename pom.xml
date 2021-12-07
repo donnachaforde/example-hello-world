@@ -14,12 +14,12 @@
        	<dependency>
        		<groupId>org.springframework</groupId>
        		<artifactId>spring-core</artifactId>
-       		<version>2.5.6</version>
+       		<version>5.3.13</version>
        	</dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>2.5.6</version>
+            <version>5.3.13</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
@@ -30,6 +30,10 @@
         </dependency>
 
     </dependencies>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
 
 
 </project>
