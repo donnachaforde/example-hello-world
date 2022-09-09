@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 #
 # cmake command to configure our build (assumes running from source directory)
 #
