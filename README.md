@@ -22,7 +22,7 @@ $ cmake --build ./build --target clean
 
 **Note:** Simple helper shell-scripts have been included for generating the cmake files, running the build and cleaning the environment. 
 
-* `cmkgenerate.s` - generates the cmake/make files
+* `cmkgenerate.sh` - generates the cmake/make files
 * `cmkbuild.sh` - builds the project
 * `cmkclean.sh` - cleans the build
 
