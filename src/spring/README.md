@@ -26,4 +26,5 @@ Open the project directory using IntelliJ and it will work out the rest.
 
 For convenience, a project file called `example-spring-hello-world` is already included in the root directory of the project. 
 
-:warning **Note:** While the IDE uses the Maven pom file for building, you may have to configure the Maven Settings to ensure it knows where the JDK is installed and at what level of compiler-language compatibility to build at (e.g. Java 8, etc.).
+**Note** 
+While the IDE uses the Maven pom file for building, you may have to configure the Maven Settings to ensure it knows where the JDK is installed and at what level of compiler-language compatibility to build at (e.g. Java 8, etc.).
