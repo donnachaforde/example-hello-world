@@ -1,6 +1,6 @@
-### README - Simple example of a CMake project.
+# README - example-cpp-hello-world
 
-Builds a simple "Hello World!" 'C' example using `cmake`. 
+A simple example of the classic "Hello World!" C++ example built using `cmake`. 
 
 ## Build Instructions
 

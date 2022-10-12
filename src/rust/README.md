@@ -1,4 +1,4 @@
-# example-rust-helloworld
+# README - example-rust-hello-world
  Simple "Hello World!" example using the 'Rust' programming language
 
 Details on installation and setup are available on the official Rust website - https://www.rust-lang.org/learn/get-started
@@ -14,7 +14,7 @@ Or
 ```
 $ mkdir helloworld
 $ cd helloworld
-% cargo init
+$ cargo init
 ```
 
 2. Build the project
